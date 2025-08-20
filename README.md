@@ -1,4 +1,4 @@
-# Simulador de Crédito Hipotecario
+# Simulador de Prepagos de Créditos Hipotecario
 
 Este proyecto permite simular créditos hipotecarios, comparar escenarios con y sin prepago, y visualizar resultados en gráficos y archivos exportables.
 
